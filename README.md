@@ -1,6 +1,6 @@
 # Course
 Something about my software learning
-软件安装来自guide/doc/BuildingSoftwareEnvironment.md
+* 软件安装来自guide/doc/BuildingSoftwareEnvironment.md *
 ## 0305
 1. Numpy : N-dimensiona
 2. scipy  scientific computing
