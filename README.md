@@ -33,7 +33,6 @@ tips：
 * bool型——True和False
 * 空类型 None 不是0没有值
 * Operators on types int and float
-
    +  # Addition  
    -  # Subtraction  
    *  # Multiplication  
