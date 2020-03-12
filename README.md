@@ -27,5 +27,17 @@ tips：
 5.%ldir  显示目录下所有内容
 6 %lsmagic 显示所有魔法命令
 ## 0312  
-python是动态的，C语言是静态的；  
-python更灵活，但是结果容易出错；  
+* python是动态的，C语言是静态的；  
+* python更灵活，但是结果容易出错；  
+* python对大小写敏感
+* bool型——True和False
+* 空类型 None 不是0没有值
+* Operators on types int and float
+
+   +  # Addition  
+   -  # Subtraction  
+   *  # Multiplication  
+   /  # Float Division,Returns a float  
+   // # Integer Divisio, Returns the floor integer  
+   %  # Modulus (Remainder)  
+   ** # Exponentiation  
