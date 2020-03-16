@@ -41,3 +41,17 @@ tips:
 11. 分片操作高级用法：s[i:j:k] 表示从i开始到j-1项，步长为k
 12. 上例中若k为负数，表示从右往左取；若i，j为负数，则对应从右往左的范围，注意最末尾项为-1
 13. 不想进行转义的时候在前面加上r （row）
+## 0316
+### Unit1-2-Control-Flow
+tips：  
+1. python用对齐的方式来代替花括号，简洁明了
+2. Improper indent: Syntax error 语法错误，比较容易发现
+3. Improper indentation: Semantic error 语意错误，语法虽然正确，不容易发现
+4. if语句条件后记得加冒号
+5. 行连续可以用括号进行处理，括号务必匹配
+6. for循环for i in range：  
+range(stop)  
+range(start, stop)  
+range(start, stop[, step])  
+7. continue 跳出本次循环后面的语句，进行下一次循环
+8. 
