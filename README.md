@@ -54,4 +54,5 @@ range(stop)
 range(start, stop)  
 range(start, stop[, step])  
 7. continue 跳出本次循环后面的语句，进行下一次循环
-8. 
+8. https://www.python.org/dev/peps/pep-0020/ 进一步开发的官方指导，有对应编号PEP
+9. import this 可以展示出the zen of python。zen即日语中的“禅”
