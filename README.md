@@ -56,5 +56,5 @@ range(start, stop[, step])
 7. continue 跳出本次循环后面的语句，进行下一次循环
 8. https://www.python.org/dev/peps/pep-0020/ 进一步开发的官方指导，有对应编号PEP
 9. import this 可以展示出the zen of python。zen即日语中的“禅”
-10. 谷歌也有自己的python style：英文版http://google.github.io/styleguide/pyguide.html or
+10. 谷歌也有自己的python style：英文版http://google.github.io/styleguide/pyguide.html or  
 中文版  https://github.com/zh-google-styleguide/zh-google-styleguide
