@@ -80,8 +80,8 @@ adder为函数名，x，y为形参
 :5s for string  
 < 和 >左右对齐  
 ^ 中间对齐  
-6. 函数定义时加上文档串便于help()查找用法,也方便自己理解，可用print(函数名,_ doc _ 调用)
-7. >>输出重新定向：e.g. !python -m pydoc abs>>./abs.txt 可以把结果生成一个text并存储
-8. %load是jupyter魔法命令，可以打开外部文件
-9. !python -m pydoc -b 1234 可以查看自己所有的代码文档
-10. 工具推荐 sphinx、Read The Docs
+7. 函数定义时加上文档串便于help()查找用法,也方便自己理解，可用print(函数名,_ doc _ 调用)
+8. >>输出重新定向：e.g. !python -m pydoc abs>>./abs.txt 可以把结果生成一个text并存储
+9. % load是jupyter魔法命令，可以打开外部文件
+10. !python -m pydoc -b 1234 可以查看自己所有的代码文档
+11. 工具推荐 sphinx、Read The Docs
