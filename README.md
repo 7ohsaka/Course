@@ -74,4 +74,14 @@ adder为函数名，x，y为形参
     sep:   string inserted between values, default a space.      
     end:   string appended after the last value, default a newline.      
     flush: whether to forcibly flush the stream.  
-6. 
+6. print(str.format())用于输出字符串的格式控制：  
+:4d for integer,  
+:6.2f for floating-point number  6-距离 2-小数保留位数
+:5s for string  
+< 和 >左右对齐  
+^ 中间对齐  
+6. 函数定义时加上文档串便于help()查找用法,也方便自己理解，可用print(函数名,_ doc _ 调用)
+7. >>输出重新定向：e.g. !python -m pydoc abs>>./abs.txt 可以把结果生成一个text并存储
+8. %load是jupyter魔法命令，可以打开外部文件
+9. !python -m pydoc -b 1234 可以查看自己所有的代码文档
+10. 工具推荐 sphinx、Read The Docs
