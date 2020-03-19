@@ -47,7 +47,7 @@ tips：
 1. python用对齐的方式来代替花括号，简洁明了
 2. Improper indent: Syntax error 语法错误，比较容易发现
 3. Improper indentation: Semantic error 语意错误，语法虽然正确，不容易发现
-4. if语句条件后记得加冒号
+4. if语句条件后记得加**冒号**
 5. 行连续可以用括号进行处理，括号务必匹配
 6. for循环for i in range：  
 range(stop)  
@@ -58,3 +58,20 @@ range(start, stop[, step])
 9. import this 可以展示出the zen of python。zen即日语中的“禅”
 10. 谷歌也有自己的python style：英文版http://google.github.io/styleguide/pyguide.html or  
 中文版  https://github.com/zh-google-styleguide/zh-google-styleguide
+## 0319
+### Unit1-3-FUNCTIONS_SCOPING_AND_ABSTRACTION
+tips:  
+1. 函数定义关键字：def，结尾必须加 **冒号**
+2. 位置变量和关键词变量：位置变量是在对应位置输入实参，关键词变量是写出实参赋值给形参。注意！关键词变量一旦开始使用，后面的都得用关键词变量！
+3. e.g. 二分法练习
+4. 函数定义也可以用lambda方法定义：adder = lambda x, y: x+y  
+adder为函数名，x，y为形参
+5. print函数：可以控制输出的格式等等  
+    print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False)  
+    Prints the values to a stream, or to sys.stdout by default.   
+    Optional keyword arguments:      
+    file:  a file-like object (stream); defaults to the current sys.stdout.        
+    sep:   string inserted between values, default a space.      
+    end:   string appended after the last value, default a newline.      
+    flush: whether to forcibly flush the stream.  
+6. 
