@@ -85,3 +85,5 @@ adder为函数名，x，y为形参
 9. % load是jupyter魔法命令，可以打开外部文件
 10. !python -m pydoc -b 1234 可以查看自己所有的代码文档
 11. 工具推荐 sphinx、Read The Docs
+12. 测试一下下
+13. 好像很OK的样子
