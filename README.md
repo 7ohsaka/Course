@@ -91,5 +91,7 @@ tips:
 2. 寻找路径首先在当前路径下寻找、然后找是否是内置函数、安装包里面找
 3. sys.path.append()可以加入到路径
 4. move 可以移除路径
-5. run as a script _ name__  is' __ main __ '，只作为脚本时运行需要加上条件，可以使得引用时不运行，双下划线。
-6. Packages软件包进行脚本文件管理：__ init__.py can just be an empty file
+5. run as a script _ name__  is' __ main __ '，只作为脚本时运行需要加上条件，可以使得引用时不运行，双下划线
+6. Packages软件包进行脚本文件管理：__ init__.py can just be an empty file,用于简化导入语句，不用再一层一层去找
+7. python的主要结构类型：元组（tuple）、列表（list）、字典（dict）
+8. tuple用圆括号加*，*定义，里面不一定是同一类型
