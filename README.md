@@ -92,4 +92,4 @@ tips:
 3. sys.path.append()可以加入到路径
 4. move 可以移除路径
 5. run as a script _ name__  is' __ main __ '，只作为脚本时运行需要加上条件，可以使得引用时不运行，双下划线。
-6. Packages软件包进行脚本文件管理：__init__.py can just be an empty file
+6. Packages软件包进行脚本文件管理：__ init__.py can just be an empty file
