@@ -85,5 +85,11 @@ adder为函数名，x，y为形参
 9. % load是jupyter魔法命令，可以打开外部文件
 10. !python -m pydoc -b 1234 可以查看自己所有的代码文档
 11. 工具推荐 sphinx、Read The Docs
-12. 测试一下下
-13. 好像很OK的样子
+## 0326
+tips:  
+1. 模块的引用：import / from .. import *(*表示所有变量)
+2. 寻找路径首先在当前路径下寻找、然后找是否是内置函数、安装包里面找
+3. sys.path.append()可以加入到路径
+4. move 可以移除路径
+5. run as a script _ name__  is' __ main __ '，只作为脚本时运行需要加上条件，可以使得引用时不运行，双下划线。
+6. Packages软件包进行脚本文件管理：__init__.py can just be an empty file
