@@ -129,4 +129,6 @@ is empty.
 * L.reverse(): has the side effect of reversing the order of the elements in L.
 
 * L.sort(): arranges the elements of the list from low to high.
-8. 
+8. pop和remove的区别：pop返回的是你弹出的那个数值；remove 是删除首个符合条件的元素。并不是删除特定的索引
+9. 值相等不等于对象相等，还应该有地址相等
+10. 
