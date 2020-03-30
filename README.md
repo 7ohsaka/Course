@@ -100,3 +100,10 @@ tips:
 11. 元组也是序列类型，可以用for遍历
 12. 元组的常用操作或函数：len(),max(),min(),sum(),tup.count(),tup.index()
 13. 函数可以返回元组类型
+## 0330
+tips：  
+1. 列表用[]定义
+2. 列表是可变的，不像元组需要创立一个新的元组,可对其中元素进行编辑
+3. list.append()和‘+’运算的结果不相同，前者是把整体作为一个元素合并，后者是把每个元素合并
+4. list.extend()和‘+’运算的效果一样，都是添加的每一项，但是不创建新的列表
+5. [更多的列表用法](https://docs.python.org/tutorial/datastructures.html#more-on-lists)
