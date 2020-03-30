@@ -107,3 +107,26 @@ tips：
 3. list.append()和‘+’运算的结果不相同，前者是把整体作为一个元素合并，后者是把每个元素合并
 4. list.extend()和‘+’运算的效果一样，都是添加的每一项，但是不创建新的列表
 5. [更多的列表用法](https://docs.python.org/tutorial/datastructures.html#more-on-lists)
+6. list.count()\list.index()——计数、索引
+7. 
+* del L[i]: delete the item at index i in L 
+
+* L.clear(), remove all the items from the lst and return None; same as del L[:].
+
+* L.remove(e),  deletes the first occurrence of e from L
+
+* L.append(e), adds the **object** e to the end of L.
+
+* L1.extend(L2), adds **items** in the list L2 to the end of list L1
+
+* L.insert(i, e), inserts the object e into L at index i.
+
+* L.pop(i), removes and returns the item at index i; i defaults to -1. Raises IndexError if L
+is empty.
+
+* L.copy(): return a copy of L; same as L[:]
+
+* L.reverse(): has the side effect of reversing the order of the elements in L.
+
+* L.sort(): arranges the elements of the list from low to high.
+8. 
