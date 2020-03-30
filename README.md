@@ -131,4 +131,14 @@ is empty.
 * L.sort(): arranges the elements of the list from low to high.
 8. pop和remove的区别：pop返回的是你弹出的那个数值；remove 是删除首个符合条件的元素。并不是删除特定的索引
 9. 值相等不等于对象相等，还应该有地址相等
-10. 
+10. 列表不能直接复制给另外一个列表，实际a=b只是赋值了名字，没有赋值内容（其他对象也是一样，python特色）
+11. 一般用克隆的方法解决上面的问题，分片克隆方法或者浅\深拷贝
+12. 克隆方法汇总    
+<strong style="color:blue;font-size:100%">slicing：L1[:]</strong>
+
+<strong style="color:blue;font-size:100%">list(L1)</strong>
+
+<strong style="color:blue;font-size:100%">copy.copy(x)</strong>
+
+<strong style="color:blue;font-size:100%">copy.deepcopy(x)</strong>
+13. [expr for var in list] 对列表元素进行操作，相当于一个循环语句
