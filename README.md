@@ -144,16 +144,47 @@ is empty.
 13. [expr for var in list] 对列表元素进行操作，相当于一个循环语句
 ## 0402
 tips：
-1. 字符串分离可以指定分割符号：str.split(),里面不带任何参数按照默认的符号作为分割
-2. 字典用花括号定义，每个元素是key:value 组成
+1. 字符串分离可以指定分割符号：`str.split()`,里面不带任何参数按照默认的符号作为分割
+2. 字典用花括号定义，每个元素是`key:value` 组成
 3. **字典里没有索引的，是无序的，通过key来找值**
 4. key只能是不可变类型，比如列表就不能作为key
 5. 字典跟列表一样，是可变类型；元组和字符串是不可变的
-6. 遍历循环输出不是输出整个键值对，而是输出key
+6. 普通的遍历循环输出不是输出整个键值对，而是输出key；遍历`dic.items()`可以输出键值对
 7.  
 * **dict.keys()** :reture is a `dict_keys` object, which is an iterator 
         
 * **dict.values()** reture is a `dict_values` object, which is an iterator 
     
 * **dict.items()**:reture is a `dict_items` object, which is an iterator that iterates the `key-value` pairs
-8. 
+8. 字典常用方法汇总：  
+* `d.keys()`： returns a view of the keys in d.
+
+* `d.values()`： returns a view of the values in d.
+
+* `d.items()`： return a new view of the dictionary’s items <strong style="color:blue">(key, value)</strong> pairs  in **tuple** 
+
+* `d[k]` ：returns the item in d with key k. Raises KeyError if k is not in d.
+
+*  `d[k] = v`： associates the value v with the key k. If there is already a value associated
+with k, that value is replaced.
+
+* `for k in d` iterates over the keys in d.
+---
+* `d.update(d1)`: merge the given dictionary d1 into d. Override the value if key exists, else, add new key-value.
+
+* `len(d)`： returns the number of items in d.
+
+* `d.pop()`: simultaneously returns the value and deletes the key
+
+* `d.has_key()`:
+
+* `k in d` ：returns True if key k is in d.
+
+* `d.get(k, v)`： returns d[k] if k in d, and v otherwise.
+
+* `del d[k]`： removes element with key k from d. Raises KeyError if k is not in d.
+
+* `d.clear()`: removes all elements from d
+
+* `d.copy()`: return a copy of  d
+9. 啦啦啦
