@@ -169,7 +169,7 @@ tips：
 with k, that value is replaced.
 
 * `for k in d` iterates over the keys in d.
----
+
 * `d.update(d1)`: merge the given dictionary d1 into d. Override the value if key exists, else, add new key-value.
 
 * `len(d)`： returns the number of items in d.
@@ -187,4 +187,4 @@ with k, that value is replaced.
 * `d.clear()`: removes all elements from d
 
 * `d.copy()`: return a copy of  d
-9. 啦啦啦
+9. 现代C++ [Welcome back to C++ - Modern C++](https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019)
