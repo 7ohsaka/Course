@@ -188,3 +188,10 @@ with k, that value is replaced.
 
 * `d.copy()`: return a copy of  d
 9. 现代C++:[Welcome back to C++ - Modern C++](https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019)
+10. 
+**Modern C++ Similars of Python Tuple,List,Dict**  
+| Python  |C++     |
+| ------- |:----------:|
+| tuple   | std::tuple|
+| list    | std::vectors |
+| dict    |  std::unordered_map |
