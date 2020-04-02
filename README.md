@@ -142,3 +142,18 @@ is empty.
 
 <strong style="color:blue;font-size:100%">copy.deepcopy(x)</strong>  
 13. [expr for var in list] 对列表元素进行操作，相当于一个循环语句
+## 0402
+tips：
+1. 字符串分离可以指定分割符号：str.split(),里面不带任何参数按照默认的符号作为分割
+2. 字典用花括号定义，每个元素是key:value 组成
+3. **字典里没有索引的，是无序的，通过key来找值**
+4. key只能是不可变类型，比如列表就不能作为key
+5. 字典跟列表一样，是可变类型；元组和字符串是不可变的
+6. 遍历循环输出不是输出整个键值对，而是输出key
+7.  
+* **dict.keys()** :reture is a `dict_keys` object, which is an iterator 
+        
+* **dict.values()** reture is a `dict_values` object, which is an iterator 
+    
+* **dict.items()**:reture is a `dict_items` object, which is an iterator that iterates the `key-value` pairs
+8. 
