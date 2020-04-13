@@ -203,3 +203,6 @@ with k, that value is replaced.
 2. numpy资源包（科学计算）
 3. matplotlib.pyplot （画图）  
 >A picture's meaning can express ten thousand words
+4. %matplotlib inline 指令可以在jupyter里显示图片
+5. png格式图片多为网络用，但是质量不好（默认）；svg格式质量好但是占用空间大
+6. pyplot.rcParams 配置画图参数
