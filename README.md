@@ -198,3 +198,8 @@ with k, that value is replaced.
 ## 0409
 1. 中文windows10环境下默认的字符编码集是GBK
 2. 课后作业一，截止5.3 [链接](https://github.com/PySEE/Practices/tree/S2020/P1)
+# 0413
+1. csv格式自学，相对于table比较通用
+2. numpy资源包（科学计算）
+3. matplotlib.pyplot （画图）  
+>A picture's meaning can express ten thousand words
