@@ -210,4 +210,4 @@ with k, that value is replaced.
 1. 绘图转换成numpy数组可以提高运行的速度
 2. numpy.polyfit 对数据进行拟合回归预测
 3. label可以添加图例
-4. $公式$用于书写专业公式——latex专业格式，可以参考`2-6
+4. $公式$用于书写专业公式——latex专业格式，可以参考`Unit2-6`
