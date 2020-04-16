@@ -198,7 +198,7 @@ with k, that value is replaced.
 ## 0409
 1. 中文windows10环境下默认的字符编码集是GBK
 2. 课后作业一，截止5.3 [链接](https://github.com/PySEE/Practices/tree/S2020/P1)
-# 0413
+## 0413
 1. csv格式自学，相对于table比较通用
 2. numpy资源包（科学计算）
 3. matplotlib.pyplot （画图）  
@@ -206,3 +206,8 @@ with k, that value is replaced.
 4. %matplotlib inline 指令可以在jupyter里显示图片
 5. png格式图片多为网络用，但是质量不好（默认）；svg格式质量好但是占用空间大
 6. pyplot.rcParams 配置画图参数
+## 0416
+1. 绘图转换成numpy数组可以提高运行的速度
+2. numpy.polyfit 对数据进行拟合回归预测
+3. label可以添加图例
+4. $公式$用于书写专业公式——latex专业格式，可以参考>2-6
