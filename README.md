@@ -211,3 +211,4 @@ with k, that value is replaced.
 2. numpy.polyfit 对数据进行拟合回归预测
 3. label可以添加图例
 4. $公式$用于书写专业公式——latex专业格式，可以参考`Unit2-6`
+5. 想把画出的图放在一张大图上，可以对子图排列方式等进行调整，可以参考`Unit2-4`
