@@ -213,4 +213,6 @@ with k, that value is replaced.
 4. $公式$用于书写专业公式——latex专业格式，可以参考`Unit2-6`
 5. 想把画出的图放在一张大图上，可以对子图排列方式等进行调整，可以参考`Unit2-4`
 ## 0423
-1. scipy方法总结全面的[网站]:(https://github.com/jrjohansson/scientific-python-lectures)
+1. scipy方法总结全面的[网站](https://github.com/jrjohansson/scientific-python-lectures)
+2. 动态绘图功能`unit 2-7`
+3. `from ipywidgets import *`实现交互性
