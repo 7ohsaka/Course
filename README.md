@@ -215,4 +215,5 @@ with k, that value is replaced.
 ## 0423
 1. scipy方法总结全面的[网站](https://github.com/jrjohansson/scientific-python-lectures)
 2. 动态绘图功能`unit 2-7`
-3. `from ipywidgets import *`实现交互性
+3. `from ipywidgets import *`实现交互性，方便交互调试观看
+4. 
