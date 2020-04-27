@@ -216,4 +216,9 @@ with k, that value is replaced.
 1. scipy方法总结全面的[网站](https://github.com/jrjohansson/scientific-python-lectures)
 2. 动态绘图功能`unit 2-7`
 3. `from ipywidgets import *`实现交互性，方便交互调试观看
-4. 
+## 0427
+1. 类的实例一定要双下划线和self
+2. `_hhh` 类似的这种下划线类似于私有的含义，只能通过方法去访问
+3. 如果对象可以通过for循环遍历，就成为可迭代的
+4. 列表不能直接用迭代器，要用`iter()`转化一下
+5. 迭代器可以节约大量内存
