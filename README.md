@@ -222,3 +222,7 @@ with k, that value is replaced.
 3. 如果对象可以通过for循环遍历，就成为可迭代的
 4. 列表不能直接用迭代器，要用`iter()`转化一下
 5. 迭代器可以节约大量内存
+## 0430
+1. 生成器generate大大节约诶内存，用`yield`来选取
+2. UML-统一建模语言
+3. `import pprint`可以使打出的字典列表美观
