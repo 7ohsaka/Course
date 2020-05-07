@@ -226,3 +226,7 @@ with k, that value is replaced.
 1. 生成器generate大大节约诶内存，用`yield`来选取
 2. UML-统一建模语言
 3. `import pprint`可以使打出的字典列表美观
+## 0507
+1. Unit5,6 因为时间关系不讲
+2. `4-2`中的4.2例子可以同时输出到文件中和屏幕效果一样
+3. `outfilename=None`可以重定向，如果是none就是输出到屏幕，如果是文件名就输出到文件中
