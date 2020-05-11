@@ -231,3 +231,6 @@ with k, that value is replaced.
 2. `4-2`中的4.2例子可以同时输出到文件中和屏幕效果一样
 3. `outfilename=None`可以重定向，如果是none就是输出到屏幕，如果是文件名就输出到文件中
 4. json实现在线数据交互，要用大括号，中间语句用逗号隔开
+## 0511
+1. 注意： projects(Unit7-8) is the ./demo，每次注意切换路径
+2. GNU/Linux-免费免费！宗旨是free！>to disseminate human knowledge and to prepare students to be good members of their community
