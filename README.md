@@ -235,3 +235,5 @@ with k, that value is replaced.
 1. 注意： projects(Unit7-8) is the ./demo，每次注意切换路径
 2. GNU/Linux-免费免费！宗旨是free！
 > to disseminate human knowledge and to prepare students to be good members of their community
+3. `7-2`可以看C语言和C++的区别
+4. 头文件同名只能出现一次
