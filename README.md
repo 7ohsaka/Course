@@ -237,3 +237,6 @@ with k, that value is replaced.
 > to disseminate human knowledge and to prepare students to be good members of their community
 3. `7-2`可以看C语言和C++的区别
 4. 头文件同名只能出现一次
+## 0514
+1. `7-2`和`7-3`不讲
+2. `.dll`（dynamic link libarary）动态库【windows下，linux是.so】
