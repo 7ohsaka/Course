@@ -245,3 +245,5 @@ with k, that value is replaced.
 1. 类包括：类的属性+类的方法
 2. UML中，继承的父类是箭头的指向方向
 3. `seuif97`中各个参数的默认单位是什么？
+4. 根据p、t不能求干度吗？
+5. OOP——objec-oriented programming 面向对象的编程设计
