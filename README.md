@@ -240,3 +240,8 @@ with k, that value is replaced.
 ## 0514
 1. `7-2`和`7-3`不讲
 2. `.dll`（dynamic link libarary）动态库【windows下，linux是.so】
+
+## 0520复习笔记
+1. 类包括：类的属性+类的方法
+2. UML中，继承的父类是箭头的指向方向
+3. `seuif97`中各个参数的默认单位是什么？
