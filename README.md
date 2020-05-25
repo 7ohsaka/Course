@@ -250,3 +250,4 @@ with k, that value is replaced.
 
 ## 0525github建立
 1. https://gitee.com/thermalogic/home/blob/S2020/guide/doc/TheSimpleStepsGithub(Chinese).md
+2. master分支一般用来发布稳定版本，dev分支（开发分支）用来发布开发版本。（设置分支的作用）
