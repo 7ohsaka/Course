@@ -247,4 +247,6 @@ with k, that value is replaced.
 3. `seuif97`中各个参数的默认单位是什么？
 4. 根据p、t不能求干度吗？
 5. OOP——objec-oriented programming 面向对象的编程设计
-6. 
+
+## 0525github建立
+1. https://gitee.com/thermalogic/home/blob/S2020/guide/doc/TheSimpleStepsGithub(Chinese).md
