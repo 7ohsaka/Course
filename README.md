@@ -251,3 +251,8 @@ with k, that value is replaced.
 ## 0525github建立
 1. https://gitee.com/thermalogic/home/blob/S2020/guide/doc/TheSimpleStepsGithub(Chinese).md
 2. master分支一般用来发布稳定版本，dev分支（开发分支）用来发布开发版本。（设置分支的作用）
+
+## 0528 linux系统
+1. 科研领域90%用的linux系统
+2. linux是大小写敏感的
+3. 这部分不考试
